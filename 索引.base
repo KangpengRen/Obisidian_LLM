@@ -1,0 +1,18 @@
+views:
+  - type: table
+    name: 表格
+    groupBy:
+      property: file.folder
+      direction: ASC
+    order:
+      - file.folder
+      - file.name
+      - 发表年份
+      - 注释
+    sort:
+      - property: 发表年份
+        direction: ASC
+    columnSize:
+      file.name: 277
+      note.发表年份: 65
+      note.注释: 779
