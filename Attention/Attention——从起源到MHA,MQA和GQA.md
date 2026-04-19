@@ -1,3 +1,6 @@
+---
+注释: 注意力综述
+---
 <a herf="https://zhuanlan.zhihu.com/p/686149289">理解Attention:从起源到MHA,MQA和GQA</a>
 # `Transformer`中的`attention`
 > 彻底抛弃了`RNN`在time step上的迭代计算，完全拥抱了`attention`机制，只用最简单粗暴的方式同步计算每个输入的`hidden state`，其他的交给`attention`解决
