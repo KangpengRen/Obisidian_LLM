@@ -1,5 +1,5 @@
 ---
-注释: 注意力综述
+注释: 注意力综述。
 ---
 <a herf="https://zhuanlan.zhihu.com/p/686149289">理解Attention:从起源到MHA,MQA和GQA</a>
 # `Transformer`中的`attention`
